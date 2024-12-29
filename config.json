@@ -1,0 +1,7 @@
+{
+    "fov": 3,
+    "keybind": 16,
+    "shooting_rate": 300,
+    "fps": 200,
+    "always_on": false
+}
